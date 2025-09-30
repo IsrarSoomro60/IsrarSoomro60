@@ -32,8 +32,7 @@
 
 ---
 
-## 🐍 Contribution Snake  
-![Snake animation](https://raw.githubusercontent.com/IsrarSoomro60/IsrarSoomro60/output/github-contribution-grid-snake.svg)  
+![Snake animation](https://github.com/IsrarSoomro60/IsrarSoomro60/blob/output/snake.svg)
 
 ---
 
