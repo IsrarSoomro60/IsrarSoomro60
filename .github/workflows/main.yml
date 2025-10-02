@@ -1,20 +1,20 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # Har din update hoga
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # Manual run option
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: generate-github-profile-3d-contrib
+    permissions: write-all   # 👈 Important line
     steps:
       - uses: actions/checkout@v2
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: IsrarSoomro60   # 👈 Yahan apna GitHub username daalo
+          USERNAME: IsrarSoomro60
       - name: Commit & Push
         run: |
           git config --local user.email "action@github.com"
