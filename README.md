@@ -55,7 +55,7 @@
 ---
 
 ### 🎨 3D Contributions
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+![3D Contributions](./profile-3d-contrib/profile-season-animate.svg)
 
 ---
 
