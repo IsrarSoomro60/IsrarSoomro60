@@ -1,43 +1,51 @@
-# 👋 Hey, I'm Israr Ahmed  
-
-💡 Passionate about **Python | Machine Learning | Data Analytics | Full-Stack Development**  
-🚀 Exploring new technologies & building projects that solve real-world problems  
+<h1 align="center">Hi 👋, I'm Israr Ahmed</h1>
+<h3 align="center">Software Engineering Student | Passionate about Python, Machine Learning & Data Analytics</h3>
 
 ---
 
-## 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/israr-soomro)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
+### ✨ About Me
+- 🎓 Currently pursuing **BS Software Engineering** at SMIU, Karachi  
+- 💡 Interested in **Python, ML, and Data Analytics**  
+- 🚀 Exploring **system design & full-stack development**  
 
 ---
 
-## 🛠️ Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)  
+### ⌨️ Dynamic Typing Intro
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=36BCF7&center=true&vCenter=true&lines=Python+Developer;Machine+Learning+Explorer;Data+Analytics+Enthusiast;Lifelong+Learner+🚀" />
+</p>
 
 ---
 
-## 📊 GitHub Stats  
-![Israr's GitHub stats](https://github-readme-stats.vercel.app/api?username=IsrarSoomro60&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IsrarSoomro60&layout=compact&theme=tokyonight)  
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IsrarSoomro60&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IsrarSoomro60&theme=tokyonight" alt="streak" />
+</p>
 
 ---
 
-## 🏆 Achievements  
-![Trophy](https://github-profile-trophy.vercel.app/?username=IsrarSoomro60&theme=dracula)  
+### 🌆 Contribution Skyline
+- Check out your **3D Skyline**:  
+  👉 [GitHub Skyline](https://skyline.github.com/IsrarSoomro60)  
+  (It shows your contributions as a 3D city!)
 
 ---
 
-![Snake animation](https://github.com/IsrarSoomro60/IsrarSoomro60/blob/output/snake.svg)
+### 🎖️ Badges
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-orange?style=for-the-badge&logo=Tableau&logoColor=white" />
+</p>
 
 ---
 
-## ✨ Random Dev Quote  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+### 📌 Featured Projects
+- **Education Management System** – complete SRS & ERD design  
+- **Billing System** – with MySQL database integration  
+- **Data Analytics Project** – fun with Python and Pandas  
 
 ---
-⭐️ From [IsrarSoomro60](https://github.com/IsrarSoomro60)
+
+<h3 align="center">⚡ Let’s connect and build something amazing!</h3>
