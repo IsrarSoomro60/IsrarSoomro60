@@ -56,7 +56,7 @@
 
 ### 🎇 Live Contribution Graph
 <p align="center">
-  <img src="https://raw.githubusercontent.com/IsrarSoomro60/IsrarSoomro60/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/IsrarSoomro60/IsrarSoomro60/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
 </p>
 
 ---
