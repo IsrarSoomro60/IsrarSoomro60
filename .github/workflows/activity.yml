@@ -1,9 +1,12 @@
 name: Generate Snake Graph
 
 on:
-  schedule: # Har din ek dafa run hoga
+  schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch: # manually run karne ka option bhi milega
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   generate:
