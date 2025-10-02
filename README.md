@@ -54,9 +54,8 @@
 
 ---
 
-### 🐍 My Contributions
-![GitHub Snake Light](https://raw.githubusercontent.com/IsrarSoomro60/IsrarSoomro60/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/IsrarSoomro60/IsrarSoomro60/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+### 🎨 3D Contributions
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
