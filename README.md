@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1E90FF&height=200&section=header&text=Israr%20Ahmed&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h3 align="center" style="color:#1E90FF;">Software Engineering Student | Python • ML • Data Analytics</h3>
+<h3 align="center" style="color:#1E90FF;">Software Engineering Student | Python • ML • Data Scientist</h3>
 
 ---
 
