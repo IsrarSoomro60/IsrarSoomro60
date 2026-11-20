@@ -8,30 +8,66 @@
 
 ## 🛠️ Skills
 
+### Languages
 <table>
-  <tr>
-    <td width="200"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=py,cpp,js" height="48" /></td>
+  <tr align="center">
+    <td width="110"><img src="https://skillicons.dev/icons?i=py" height="48" /><br><sub><b>Python</b></sub></td>
+    <td width="110"><img src="https://skillicons.dev/icons?i=cpp" height="48" /><br><sub><b>C++</b></sub></td>
+    <td width="110"><img src="https://skillicons.dev/icons?i=js" height="48" /><br><sub><b>JavaScript</b></sub></td>
   </tr>
-  <tr>
-    <td><b>Backend & APIs</b></td>
-    <td><img src="https://skillicons.dev/icons?i=django,fastapi,flask" height="48" /></td>
+</table>
+
+### Backend & APIs
+<table>
+  <tr align="center">
+    <td width="110"><img src="https://skillicons.dev/icons?i=django" height="48" /><br><sub><b>Django</b></sub></td>
+    <td width="110"><img src="https://skillicons.dev/icons?i=django" height="48" /><br><sub><b>DRF</b></sub></td>
+    <td width="110"><img src="https://skillicons.dev/icons?i=fastapi" height="48" /><br><sub><b>FastAPI</b></sub></td>
+    <td width="110"><img src="https://skillicons.dev/icons?i=flask" height="48" /><br><sub><b>Flask</b></sub></td>
+    <td width="110"><img src="https://skillicons.dev/icons?i=postman" height="48" /><br><sub><b>Postman</b></sub></td>
   </tr>
-  <tr>
-    <td><b>Data Science & ML</b></td>
-    <td><img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,pytorch,powerbi" height="48" /></td>
+</table>
+
+### Data Science & Machine Learning
+<table>
+  <tr align="center">
+    <td width="110"><img src="https://skillicons.dev/icons?i=numpy" height="48" /><br><sub><b>NumPy</b></sub></td>
+    <td width="110"><img src="https://skillicons.dev/icons?i=pandas" height="48" /><br><sub><b>Pandas</b></sub></td>
+    <td width="110"><img src="https://skillicons.dev/icons?i=sklearn" height="48" /><br><sub><b>Scikit-learn</b></sub></td>
+    <td width="110"><img src="https://skillicons.dev/icons?i=tensorflow" height="48" /><br><sub><b>TensorFlow</b></sub></td>
+    <td width="110"><img src="https://skillicons.dev/icons?i=pytorch" height="48" /><br><sub><b>PyTorch</b></sub></td>
+    <td width="110"><img src="https://skillicons.dev/icons?i=powerbi" height="48" /><br><sub><b>Power BI</b></sub></td>
   </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite" height="48" /></td>
+</table>
+
+### Databases
+<table>
+  <tr align="center">
+    <td width="110"><img src="https://skillicons.dev/icons?i=postgres" height="48" /><br><sub><b>PostgreSQL</b></sub></td>
+    <td width="110"><img src="https://skillicons.dev/icons?i=mysql" height="48" /><br><sub><b>MySQL</b></sub></td>
+    <td width="110"><img src="https://skillicons.dev/icons?i=mongodb" height="48" /><br><sub><b>MongoDB</b></sub></td>
+    <td width="110"><img src="https://skillicons.dev/icons?i=sqlite" height="48" /><br><sub><b>SQLite</b></sub></td>
   </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,tailwind,react" height="48" /></td>
+</table>
+
+### Frontend
+<table>
+  <tr align="center">
+    <td width="110"><img src="https://skillicons.dev/icons?i=html" height="48" /><br><sub><b>HTML5</b></sub></td>
+    <td width="110"><img src="https://skillicons.dev/icons?i=css" height="48" /><br><sub><b>CSS3</b></sub></td>
+    <td width="110"><img src="https://skillicons.dev/icons?i=tailwind" height="48" /><br><sub><b>Tailwind</b></sub></td>
+    <td width="110"><img src="https://skillicons.dev/icons?i=react" height="48" /><br><sub><b>React</b></sub></td>
   </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,notion" height="48" /></td>
+</table>
+
+### Tools & Platforms
+<table>
+  <tr align="center">
+    <td width="110"><img src="https://skillicons.dev/icons?i=git" height="48" /><br><sub><b>Git</b></sub></td>
+    <td width="110"><img src="https://skillicons.dev/icons?i=github" height="48" /><br><sub><b>GitHub</b></sub></td>
+    <td width="110"><img src="https://skillicons.dev/icons?i=docker" height="48" /><br><sub><b>Docker</b></sub></td>
+    <td width="110"><img src="https://skillicons.dev/icons?i=vscode" height="48" /><br><sub><b>VS Code</b></sub></td>
+    <td width="110"><img src="https://skillicons.dev/icons?i=notion" height="48" /><br><sub><b>Notion</b></sub></td>
   </tr>
 </table>
 
@@ -43,13 +79,28 @@
   <tr>
     <td width="50%" valign="top">
       <h3>🛒 E-commerce API</h3>
-      <p>A RESTful backend with product and user management, JWT authentication, CRUD operations, permissions, pagination, and API testing.</p>
+      <p><b>RESTful backend for an online store.</b></p>
+      <ul>
+        <li>Product and user management</li>
+        <li>JWT authentication and permissions</li>
+        <li>CRUD operations with pagination</li>
+        <li>Tested with Postman</li>
+      </ul>
       <img src="https://skillicons.dev/icons?i=py,django,postgres,postman" height="40" />
+      <br><br>
+      <a href="https://github.com/IsrarSoomro60/REPO-NAME"><img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🎬 Movies Dataset Analysis</h3>
-      <p>Exploratory data analysis project that cleans, analyzes, and visualizes insights from a movie dataset.</p>
+      <p><b>Exploratory data analysis of movie data.</b></p>
+      <ul>
+        <li>Data cleaning and preprocessing</li>
+        <li>Statistical analysis of key trends</li>
+        <li>Charts and visual insights</li>
+      </ul>
       <img src="https://skillicons.dev/icons?i=py,pandas,numpy" height="40" />
+      <br><br>
+      <a href="https://github.com/IsrarSoomro60/REPO-NAME"><img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     </td>
   </tr>
 </table>
